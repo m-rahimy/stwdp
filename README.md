@@ -9,4 +9,4 @@ The classes follow Design Pattern principles so they can be used as a tutorial e
 
 # run results:
 
-![run results image](/relative/path/to/img.jpg?raw=true "Continuous Production/Consumption in CMD")
+![run results image](/result.png?raw=true "Continuous Production/Consumption in CMD")
